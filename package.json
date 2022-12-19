@@ -1,0 +1,19 @@
+{
+  "name": "krumpus",
+  "version": "1.0.0",
+  "description": "a multipurpose bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "matraxi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PipeWasHere/Krumpus.git"
+  },
+  "author": "Pipe#0808",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PipeWasHere/Krumpus/issues"
+  },
+  "homepage": "https://github.com/PipeWasHere/Krumpus#readme"
+}
