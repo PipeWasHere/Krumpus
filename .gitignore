@@ -2,3 +2,4 @@ node_modules
 .env
 config.json
 word_filters
+package-lock.json
